@@ -14,3 +14,6 @@
 宿泊（[グランドニッコー淡路](https://www.okura-nikko.com/ja/japan/awaji/grand-nikko-awaji/)）を希望する方は，以下を参考に参加申し込みを行ってください．
 * 1部屋のシングルユース：17,500円
 * 1部屋のツインユース：11,000円
+
+## 参加申し込み
+[コチラ](https://forms.gle/EkaXSMgoZv6MvdqDA)のフォームからお申し込みください．
