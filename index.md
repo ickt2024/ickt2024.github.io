@@ -16,4 +16,4 @@
 * 1部屋のツインユース：11,000円
 
 ## 参加申し込み
-[コチラ](https://forms.gle/EkaXSMgoZv6MvdqDA)のフォームからお申し込みください．
+[コチラ](https://forms.gle/EkaXSMgoZv6MvdqDA){:target="_blank"}のフォームからお申し込みください．
