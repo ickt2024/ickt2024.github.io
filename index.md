@@ -5,6 +5,6 @@
 * 場所：[淡路夢舞台](https://www.yumebutai.co.jp) 会議場レセプションホールB
 
 ## 参加費
-* 現地参加（研究会 + Keynote Talks）：25,000円
+* 現地参加（研究会 + Keynote Talks）：30,000円
 * 現地参加（Keynote Talksのみ参加）：10,000円
 * オンライン参加：5,000円
